@@ -31,7 +31,7 @@
   Through our initiatives students get the opportunity to attend industry standard events, conferences, meet-ups and much more where they can talk to people like Founders, CEOs and other major roles.
   
   ### ✦ Work at a Startup
-  Work at a Startup is an initiative to help students put their skills into practical use by working at emerging startups right from their college life.  
+  [Work at a Startup](https://github.com/bharatanve/education/blob/main/Work%20at%20a%20Startup.md) is an initiative to help students put their skills into practical use by working at emerging startups right from their college life.  
   And much more..!
   
   ---

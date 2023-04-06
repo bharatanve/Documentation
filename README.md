@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95045411/230392095-26cebf44-00d2-43c4-9216-33db65b29554.png" height="60px"></p>
 
-# <h1 align="center">🗂️ Bharatanve Docs</h1>
+# 📁 Bharatanve Docs
 
 Here you can find all the doumentations that give you a better understanding of Bharatanve's various programs and initiatives taken to Re-Engineer the way of Learning of Students across the Nation.
 

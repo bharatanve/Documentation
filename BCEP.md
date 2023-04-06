@@ -49,7 +49,7 @@ This program aims to develop problem identification & solving abilities aided wi
 ### How to become BCEP Student ?
 If you are a Student, join Bharatanve Community to register for Bharatanve Campus Experience Program for your campus. Once you become a member of the community you can register your campus directly through our [🔗 Discord Server](https://discord.gg/nvsNR5nwzJ).
   
-  You can also become part of 🔗 Bharatanve Campus Lead Program (BCLP) and register your campus for the Experience Program.  
+  You can also become part of [🔗 Bharatanve Campus Lead Program (BCLP)](https://github.com/bharatanve/education/blob/main/BCLP.md) and register your campus for the Experience Program.  
     
       
 **Connect with us on** : [Website](https://bharatanve.com) | [LinkedIn](https://www.linkedin.com/company/bharatanve/) | [Twitter](https://twitter.com/Bharatanve) | [Instagram](https://www.instagram.com/bharatanve/)

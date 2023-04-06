@@ -31,8 +31,7 @@
   Through our initiatives students get the opportunity to attend industry standard events, conferences, meet-ups and much more where they can talk to people like Founders, CEOs and other major roles.
   
   ### ✦ Work at a Startup
-  An initiative to help students put their skills into practical use by working at an emerging startup right from their college life !.
-  AND LOT MORE!!
+  An initiative to help students put their skills into practical use by working at an emerging startup right from their college life. And much more..!
   
   ---
   ### Why join Bharatanve Campus Experience Program ?

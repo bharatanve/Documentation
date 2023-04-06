@@ -4,7 +4,7 @@
  <h1 align="center"> 🚀 Bharatanve Campus Lead Program </h1>
  <p align="center">Bharatanve Campus Lead Program is an initiative to support Student Leaders who are enthusiastic about learning new things and are equally passionate to help others learn and grow by building their local Student Community in their campus. We fuel their passion providing valuable resources and training from our industry partners & experienced teacher community which will help them face all the challenges, achieve their goals and better serve their student community.</p>
  
-<p align="center"><a href="https://github.com/bharatanve/education/new/main#how-can-i-become-a-campus-lead-">Apply as Campus Lead </a></p>
+<p align="center"><a href="https://github.com/bharatanve/education/blob/main/BCLP.md#how-can-i-become-a-campus-lead-">Apply as Campus Lead </a></p>
  
  ---
  

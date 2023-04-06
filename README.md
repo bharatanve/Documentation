@@ -9,6 +9,6 @@ Here you can find all the doumentations that give you a better understanding of 
   1. [🤝 Bharatanve Community](https://discord.com/invite/xdvK5YEKTk)
   2. [🎓 Bharatanve Campus Experience Program (BCEP)](https://github.com/bharatanve/education/blob/main/bcep.md)
   3. [🚀 Bharatanve Campus Lead Program (BCLP)](https://github.com/bharatanve/education/blob/main/BCLP.md)
-  4. 💼 Work at a Startup  
+  4. [💼 Work at a Startup](https://github.com/bharatanve/education/blob/main/Work%20at%20a%20Startup.md)  
   
   You can raise your quries and doubts in `#❓ask-here` channel of our [**Discord Server**](https://discord.com/invite/xdvK5YEKTk).

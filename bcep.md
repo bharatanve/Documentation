@@ -14,7 +14,7 @@
   
   ---
   
-  ## 👉🏻 What can a Student get from BCEP ?
+  ## What can a Student get from BCEP ?
 
 
   See Bharatanve working in your campus and stay closely connected with us for benefits like
